@@ -1,0 +1,6 @@
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\XPPro\Desktop\Programs\3sem\Lab8.1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
